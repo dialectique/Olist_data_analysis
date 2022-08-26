@@ -36,7 +36,7 @@ Main method:
    - `dim_is_five_star`
    - `dim_is_one_star`
    - `review_score`
-   -  `number_of_products`
+   - `number_of_products`
    - `number_of_sellers`
    - `price`
    - `freight_value`
