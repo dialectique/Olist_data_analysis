@@ -24,6 +24,14 @@ Get an understanding of the `orders properties` and their associated `review_sco
 ### seller_analysis
 Get an understanding of the `sellers properties` and their associated `review_scores`
 Find sellers who have repeatedly been underperforming vs. others, and understand why.
-This will help to formulate recommendations about how to improve Olist's profit margin for the future.
 - import the dataset from the olistpackage, description of the dataset
-- Exploratory Data Analysis
+- Impact of various features on `review_score` using a `multivariate-OLS` in `statsmodels`
+- `seller_state` analysis
+
+
+### products_analysis
+Get an understanding of the `products properties` and their associated `review_scores`
+Find `product categories` that repeatedly `underperform` vs. others, and understand the reasons behind.
+- import the dataset from the olistpackage, description of the dataset
+- Impact of various features on `review_score` using a `multivariate-OLS` in `statsmodels`
+work in progress
