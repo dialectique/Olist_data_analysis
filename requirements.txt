@@ -1,32 +1,35 @@
 # packaging
 pip>=9
 setuptools>=26
-twine
+twine==4.0.1
 wheel>=0.29
 
 # data science
-numpy
-pandas
-scikit-learn
-statsmodels
-plotly
+numpy==1.23.2
+pandas==1.4.3
+scikit-learn==1.1.2
+statsmodels==0.13.2
+plotly==5.10.0
 
 # tests/linter
-black
-coverage
-flake8
-pytest
-yapf
+black==22.6.0
+coverage==6.4.4
+flake8==5.0.4
+pytest==7.1.2
+yapf==0.32.0
 
 
 # jupyter
-jupyter
+jupyter==1.0.0
 
 # sweetviz
-sweetviz
+sweetviz==2.1.4
 
 #opendatasets
-opendatasets
+opendatasets==0.1.22
 
 #haversine
-haversine
+haversine==2.6.0
+
+#google translation
+googletrans==4.0.0rc1
