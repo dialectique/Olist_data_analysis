@@ -20,7 +20,8 @@ Get an understanding of the `orders properties` and their associated `review_sco
 - Inspect features
 - Simple regression of `review_score` against `delivery duration`
 - Multivariate regression of `review_score`
-- Exploration of low score `order_reviews`,
+- Exploration of low score `order_reviews`
+- Net Promoter Score (NPS) exploration
 
 ### 3_seller_analysis
 Get an understanding of the `sellers properties` and their associated `review_scores`
