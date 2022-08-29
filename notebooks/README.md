@@ -19,7 +19,8 @@ Get an understanding of the `orders properties` and their associated `review_sco
 - Import the dataset from the olistpackage, description of the dataset
 - Inspect features
 - Simple regression of `review_score` against `delivery duration`
-- Multivariate regression
+- Multivariate regression of `review_score`
+- Exploration of low score `order_reviews`,
 
 ### 3_seller_analysis
 Get an understanding of the `sellers properties` and their associated `review_scores`
