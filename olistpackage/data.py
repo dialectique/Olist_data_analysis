@@ -59,7 +59,7 @@ class Olist:
 
     def download_data(self) -> None:
         """
-        Return True if the Olist csv files already exist in root/data/csv directory.
+        Return None if the Olist csv files already exist in root/data/csv directory.
         Else: download the csv files from the Kaggle Official API.
         Uses the Kaggle Official API for donwloading dataset from Kaggle.
         Kaggle Official API credentials are asked by opendatasets.download()
@@ -74,8 +74,9 @@ class Olist:
         """
         # Check if the csv files already exist
         if self.csv_files_exist():
-            # return True if yes
+            # return None if yes
             print("The Olist csv files are already downloaded.")
+            return None
 
         # If the files don't exist already,
         # download the csv files from the Kaggle Official API
