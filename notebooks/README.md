@@ -13,6 +13,7 @@ Exploratory analysis of the Olist cleaned data:
 - Original dataset download and data cleansing
 - Automated exploratory analysis with SweetViz
 - Cardinalities
+- Metric Design
 
 ### 2_orders_analysis
 Get an understanding of the `orders properties` and their associated `review_scores`
@@ -37,3 +38,6 @@ Find `product categories` that repeatedly `underperform` vs. others, and underst
 - Exploratory analysis
 - Predicting the average `review_score` per `product_id` using a `multivariate-OLS` from `statsmodels`
 - Analysis per `product category`
+
+### 5_products_analysis
+Analyse the reviews to understand what could be the causes of the bad review scores.
