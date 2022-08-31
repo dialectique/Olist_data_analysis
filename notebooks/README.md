@@ -40,4 +40,4 @@ Find `product categories` that repeatedly `underperform` vs. others, and underst
 - Analysis per `product category`
 
 ### 5_products_analysis
-Analyse the reviews to understand what could be the causes of the bad review scores.
+Sentiment analysis of the reviews to understand what could be the causes of the bad ones
