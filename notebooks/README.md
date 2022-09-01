@@ -41,3 +41,8 @@ Find `product categories` that repeatedly `underperform` vs. others, and underst
 
 ### 5_products_analysis
 Sentiment analysis of the reviews to understand what could be the causes of the bad ones
+
+### 6_final_analysis
+- P&L
+- Seller cut-off analysis
+- Underperforming products cut-off analysis
