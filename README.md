@@ -11,13 +11,13 @@ Check out Makefile for usefull command lines.
 
 ### data
 Raw data and automated exploratory analysis reports.
-<br />
-## notebooks
+
+### notebooks
 Notebooks which contains all the data analysis.
-<br />
+
 ### olistpackage
 Librairies for data cleansing and processing.
-<br />
+
 ### tests
 Tests for olistpackage librairies.
 <br />
