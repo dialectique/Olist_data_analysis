@@ -21,5 +21,4 @@ Check out Makefile for usefull command lines.
 ### tests
 - Tests for olistpackage librairies.
 <br />
-<br />
-** Please checkout the README.md file in each of those directories. **
+**Please checkout the README.md file in each of those directories.**
