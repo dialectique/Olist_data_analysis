@@ -1,6 +1,6 @@
 # Olist_data_analysis
 
-Data analysis of Brazilian e-commerce marketplace [Olist](https://www.olist.com) with Python and Jupyter Notebook.
+Data analysis of a dataset from Brazilian e-commerce marketplace [Olist](https://www.olist.com) with Python and Jupyter Notebook.
 
 "Olist dataset version 2" is available on Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2
