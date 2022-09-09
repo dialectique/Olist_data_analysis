@@ -5,7 +5,16 @@ Data analysis of a dataset from Brazilian e-commerce marketplace [Olist](https:/
 "Olist dataset version 2" is available on Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVersionNumber=2
 
-Check out Makefile for usefull command lines.
+
+## Installation:
+- It is recommended to use a virtual environment to install this project
+- If setuptools is already installed, execute the following command line:
+```make install```
+- If setuptools is not installed, execute the followin command line:
+```pip install setuptools```
+```make install```
+- Check out Makefile for more usefull command lines
+
 
 ## directories content:
 
