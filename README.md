@@ -8,11 +8,8 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVers
 
 ## Installation:
 - It is recommended to use a virtual environment to install this project
-- If setuptools is already installed, execute the following command line:
-```make install```
-- If setuptools is not installed, execute the followin command line:
-```pip install setuptools```
-```make install```
+- If setuptools is already installed, execute the following command line: ```make install```
+- If setuptools is not installed, execute the followin command line: ```pip install setuptools``` then ```make install```
 - Check out Makefile for more usefull command lines
 
 
