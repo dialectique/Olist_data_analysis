@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/download?datasetVers
 - Check out Makefile for more usefull command lines
 
 
-## directories content:
+## Directories content:
 
 ### data
 - Raw data and automated exploratory analysis reports.
